@@ -40,3 +40,12 @@ Updating this product list would look a little something like this:
 1. obtain a product list in either json or csv format
 2. if in csv, use a public csv-to-json converter
 3. run the script on the json file
+
+
+---
+
+### To run:
+1. run client by chaning into pcbuilder-client directory and run npm start
+2. change into pcbuilder-server directory
+3. (optional) change mongoDB credentials in pcbuild.js
+4. run node app.js
