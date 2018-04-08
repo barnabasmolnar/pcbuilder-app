@@ -1,0 +1,8 @@
+svg {
+    width: 50px;
+    height: 50px;
+}
+
+svg g {
+    fill: #000;
+}

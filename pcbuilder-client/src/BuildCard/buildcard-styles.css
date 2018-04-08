@@ -1,0 +1,28 @@
+.card {
+    max-width: 40rem;
+    margin-top: 2rem !important;
+}
+.card-header { padding: 2rem; }
+.row {
+    border-bottom: 1px #ccc dashed;
+    margin: 1rem 0;
+    padding: 1rem 0;
+}
+.row:last-child { border: none; }
+.first-row {
+    margin-top: 0;
+    margin-bottom: 2rem;
+    border: none;
+}
+.component-img {
+    display: flex;
+    align-items: center;
+}
+img {
+    width: 50px;
+    height: 50px;
+}
+.price-label { visibility: hidden; }
+.save-config { margin: 2rem 0; border: none; }
+.save-config-icon { margin-right: .5rem; }
+.btn { cursor: pointer; }
