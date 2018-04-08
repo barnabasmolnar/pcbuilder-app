@@ -3,3 +3,5 @@ pcbuilder-server/node_modules
 pcbuilder-server/mongoCredentials.js
 *.log
 pcbuild-backup.js
+pcbuilder-client/src/tempstuff
+pcbuilder-client/src/data
